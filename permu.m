@@ -2,7 +2,7 @@ function [PVP,TVP] = permu(Cond1, Cond2)
 
 % permutation t-test analysis for between subjects analysis. By:
 % Amirhossein Ghaderi, 
-% Cond1, and Cond2 are column vectors of values in group 1, 2
+% Cond1, and Cond2 are column vectors of values in groups 1, 2
 % PVP returns p-value and TVP returns t-value
 
 
